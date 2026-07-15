@@ -36,7 +36,6 @@ Universidade do Minho, Braga
   <br>
   <br>
   <br>
-  <br>
 
 ## Badges
 
