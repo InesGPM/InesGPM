@@ -73,3 +73,5 @@ Universidade do Minho, Braga
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=InesGPM&layout=compact&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=InesGPM&theme=tokyonight) -->
+<!-- ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=InesGPM&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) --> 
+
