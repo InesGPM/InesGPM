@@ -1,16 +1,15 @@
-# Hi, I'm Inês 👋
-
+# Hi, I'm Inês  𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 
 **Software Engineer** | Master's Student in Information Systems Engineering and Systems & Software Security
 
 
-## About me 
+## ★ About me 
 
 Computer Engineering graduate, currently pursuing a Master's degree in Information Systems Engineering and Systems and Software Security at **NOVA FCT**.
 Interested in software security, database systems, backend development, and cloud technologies. 
 I enjoy solving challenging technical problems, learning new technologies, and building reliable and secure software.
 <br>
 
-## Education
+## 🕮 Education
 
 **Master's in Information Systems Engineering & Systems and Software Security** —
 NOVA SST - FCT, Almada 
@@ -20,7 +19,7 @@ Universidade do Minho, Braga
 
 <br>
 
-## Main Projects
+## ⏻ Main Projects
 
 - **[Airport Management System](https://github.com/InesGPM/Airport-Management-System--DIAI/)**
   — Microservices-based airport management system enabling secure management and persistence of flight, booking, passenger, and baggage data, applying distributed systems, authentication, and role-based access control principles.
@@ -30,14 +29,14 @@ Universidade do Minho, Braga
 - **[Online Collectible Card Auction Platform](https://github.com/InesGPM/LI4)** — Full-stack web application backed by a MySQL relational database, with a layered architecture (Data Access Layer), user authentication, and auction, bidding, and payment workflows.
 <br>
 
-## Contact
+## ✉︎ Contact
 
 - LinkedIn: [Inês_Marques](https://www.linkedin.com/in/inês-marques-514468256/)
   <br>
   <br>
   <br>
 
-## Badges
+## 𐃯 Badges
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -68,7 +67,7 @@ Universidade do Minho, Braga
 </div>
 </div>
 
-## GitHub Stats
+## ☕︎ GitHub Stats
 
 <!-- ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=InesGPM&show_icons=true&theme=tokyonight) -->
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=InesGPM&layout=compact&theme=tokyonight)
