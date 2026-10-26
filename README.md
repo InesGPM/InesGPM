@@ -25,7 +25,7 @@ Universidade do Minho, Braga
   — Microservices-based airport management system enabling secure management and persistence of flight, booking, passenger, and baggage data, applying distributed systems, authentication, and role-based access control principles.
 - **[Secure Task Management Platform](https://github.com/InesGPM/Secure-Web-Application---SoftSec/tree/main/1st-project-phase-1-73451_73099-main)** — Task management platform with user roles and permissions (RBAC), enabling teams to securely create, assign, and manage tasks while following OWASP Top 10 guidelines.
 - **[Cloud-Native Backend](https://github.com/InesGPM/cloud-computing-backend-app--CC)** — Containerized web application deployed with Docker and Kubernetes, integrating database, caching, and storage services into a cloud-native architecture, evaluated through automated scalability and performance testing.
-- **[Secure Local Messaging Service](https://github.com/InesGPM/oblivious-storage-server--SSC)** — Secure local messaging service for Linux, focused on process isolation, permission management, and secure system design.
+- **[Secure Local Messaging Service](https://github.com/InesGPM/oblivious-storage-server--SSC)** — Secure local messaging service, focused on process isolation, permission management, and secure system design.
 - **[Online Collectible Card Auction Platform](https://github.com/InesGPM/LI4)** — Full-stack web application backed by a MySQL relational database, with a layered architecture (Data Access Layer), user authentication, and auction, bidding, and payment workflows.
 <br>
 
